@@ -45,7 +45,7 @@ Please ensure your code follows the coding standards and conventions observed in
 
 ## Support
 
-For support or inquiries, please contact us at [contact@ignitionscience.org](mailto:contact@ignitionscience.org).
+For support or inquiries, please contact us at [contact@ignitionscience.org](mailto:contact.ignitonscience@gmail.com).
 
 ## License
 
